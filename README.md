@@ -1,8 +1,8 @@
 ### Oiii! Eu sou Leonardo Santos 👋
 
 - 🔭 Atualmente trabalho como Desenvolvedor Web FullStack
-- ⚡ Estudando node.js e React.js e aprofundamento em JavaScript
-- 😄 Programos alguns anos com PHP
+- ⚡ Estudando node.js, React.js e aprofundamento em JavaScript
+- 😄 Linguagem base: PHP
 
 ##
 
