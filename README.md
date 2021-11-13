@@ -4,6 +4,8 @@
 - ⚡ Estudando node.js e React.js e aprofundamento em JavaScript
 - 😄 Programos alguns anos com PHP
 
+##
+
 <div align="center">
   <a href="https://github.com/leonardodssantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardodssantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
